@@ -1,7 +1,7 @@
 Exchange Online Dashboard Tool using Powershell script
 ======================================================
 
-http://gallery.technet.microsoft.com/office/Office365-Administrator-9b4f6a0a/view/Reviews
+http://gallery.technet.microsoft.com/office/Exchange-Online-Dashboard-5454a4a4
 
 ![image](http://gallery.technet.microsoft.com/office/site/view/file/108591/1/Exchange_Online_Dashboard_Tool.png)
 
